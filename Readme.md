@@ -6,7 +6,7 @@
 
 [Link](test.md)
 
-![picture](gugong.jpg)
+[picture](gugong.jpg)
 
 ![图片](https://th.bing.com/th/id/R1fdf3a183158c62b91e690d8beee6ebe?rik=mHL6yEiXiMAK9Q&riu=http%3a%2f%2fwww.shijuepi.com%2fuploads%2fallimg%2f200918%2f1-20091Q10417.jpg&ehk=wzkrRqNZfU1InC6bUzefYssPjoFNJBZZ7qSj6P7WHPI%3d&risl=&pid=ImgRaw)
 
