@@ -4,7 +4,7 @@
 
 [亚马逊](https://www.amazon.cn/ref=z_cn)
 
-[Link](./temp.md)
+[Link](test.md)
 
 ![picture](./th.jpg)
 
